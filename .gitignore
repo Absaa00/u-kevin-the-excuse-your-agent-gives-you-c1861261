@@ -1,0 +1,11 @@
+# u-kevin excuse entry: the repo ships only the program itself
+/output/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.venv/
+transcripts.tar.gz
